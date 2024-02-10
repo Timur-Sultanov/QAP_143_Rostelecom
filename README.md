@@ -1,1 +1,0 @@
-# QAP_143_Rostelecom
